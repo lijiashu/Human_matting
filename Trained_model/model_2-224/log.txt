@@ -1,0 +1,1002 @@
+[1 / 500] 	Lr: 0.00001
+loss: 1.62739   loss_alpha: 0.50921   loss_color: 0.12065   loss_cross: 0.99752
+[1 / 500] 	Lr: 0.00001
+loss: 1.39543   loss_alpha: 0.53168   loss_color: 0.13046   loss_cross: 0.73329
+[2 / 500] 	Lr: 0.00001
+loss: 1.38532   loss_alpha: 0.52778   loss_color: 0.12939   loss_cross: 0.72816
+[3 / 500] 	Lr: 0.00001
+loss: 1.37439   loss_alpha: 0.52442   loss_color: 0.12955   loss_cross: 0.72042
+[4 / 500] 	Lr: 0.00001
+loss: 1.36583   loss_alpha: 0.52432   loss_color: 0.12854   loss_cross: 0.71297
+[5 / 500] 	Lr: 0.00001
+loss: 1.35317   loss_alpha: 0.52228   loss_color: 0.12681   loss_cross: 0.70408
+[6 / 500] 	Lr: 0.00001
+loss: 1.34339   loss_alpha: 0.51980   loss_color: 0.12682   loss_cross: 0.69677
+[7 / 500] 	Lr: 0.00001
+loss: 1.32925   loss_alpha: 0.51613   loss_color: 0.12488   loss_cross: 0.68825
+[8 / 500] 	Lr: 0.00001
+loss: 1.31671   loss_alpha: 0.51471   loss_color: 0.12556   loss_cross: 0.67644
+[9 / 500] 	Lr: 0.00001
+loss: 1.30093   loss_alpha: 0.51287   loss_color: 0.12308   loss_cross: 0.66498
+[10 / 500] 	Lr: 0.00001
+loss: 1.28981   loss_alpha: 0.51103   loss_color: 0.12348   loss_cross: 0.65530
+[11 / 500] 	Lr: 0.00001
+loss: 1.27296   loss_alpha: 0.50834   loss_color: 0.12262   loss_cross: 0.64201
+[12 / 500] 	Lr: 0.00001
+loss: 1.25977   loss_alpha: 0.50209   loss_color: 0.12067   loss_cross: 0.63700
+[13 / 500] 	Lr: 0.00001
+loss: 1.24420   loss_alpha: 0.49989   loss_color: 0.11991   loss_cross: 0.62440
+[14 / 500] 	Lr: 0.00001
+loss: 1.23225   loss_alpha: 0.49873   loss_color: 0.11914   loss_cross: 0.61438
+[15 / 500] 	Lr: 0.00001
+loss: 1.21696   loss_alpha: 0.49179   loss_color: 0.11641   loss_cross: 0.60876
+[16 / 500] 	Lr: 0.00001
+loss: 1.20368   loss_alpha: 0.48900   loss_color: 0.11612   loss_cross: 0.59856
+[17 / 500] 	Lr: 0.00001
+loss: 1.18474   loss_alpha: 0.48461   loss_color: 0.11560   loss_cross: 0.58453
+[18 / 500] 	Lr: 0.00001
+loss: 1.17093   loss_alpha: 0.48008   loss_color: 0.11357   loss_cross: 0.57727
+[19 / 500] 	Lr: 0.00001
+loss: 1.15817   loss_alpha: 0.47408   loss_color: 0.11168   loss_cross: 0.57242
+[20 / 500] 	Lr: 0.00001
+loss: 1.14513   loss_alpha: 0.47063   loss_color: 0.11123   loss_cross: 0.56327
+[21 / 500] 	Lr: 0.00001
+loss: 1.13661   loss_alpha: 0.46631   loss_color: 0.11037   loss_cross: 0.55993
+[22 / 500] 	Lr: 0.00001
+loss: 1.12254   loss_alpha: 0.46084   loss_color: 0.10857   loss_cross: 0.55313
+[23 / 500] 	Lr: 0.00001
+loss: 1.10154   loss_alpha: 0.45626   loss_color: 0.10767   loss_cross: 0.53760
+[24 / 500] 	Lr: 0.00001
+loss: 1.10229   loss_alpha: 0.45240   loss_color: 0.10694   loss_cross: 0.54295
+[25 / 500] 	Lr: 0.00001
+loss: 1.08529   loss_alpha: 0.44685   loss_color: 0.10600   loss_cross: 0.53244
+[26 / 500] 	Lr: 0.00001
+loss: 1.07782   loss_alpha: 0.44291   loss_color: 0.10465   loss_cross: 0.53025
+[27 / 500] 	Lr: 0.00001
+loss: 1.07434   loss_alpha: 0.43905   loss_color: 0.10263   loss_cross: 0.53266
+[28 / 500] 	Lr: 0.00001
+loss: 1.05131   loss_alpha: 0.43379   loss_color: 0.10149   loss_cross: 0.51603
+[29 / 500] 	Lr: 0.00001
+loss: 1.04242   loss_alpha: 0.42859   loss_color: 0.10158   loss_cross: 0.51225
+[30 / 500] 	Lr: 0.00001
+loss: 1.03624   loss_alpha: 0.42528   loss_color: 0.09989   loss_cross: 0.51107
+[31 / 500] 	Lr: 0.00001
+loss: 1.02766   loss_alpha: 0.42092   loss_color: 0.09852   loss_cross: 0.50821
+[32 / 500] 	Lr: 0.00001
+loss: 1.01449   loss_alpha: 0.41663   loss_color: 0.09817   loss_cross: 0.49969
+[33 / 500] 	Lr: 0.00001
+loss: 1.01402   loss_alpha: 0.41322   loss_color: 0.09690   loss_cross: 0.50389
+[34 / 500] 	Lr: 0.00001
+loss: 1.00474   loss_alpha: 0.40883   loss_color: 0.09580   loss_cross: 0.50011
+[35 / 500] 	Lr: 0.00001
+loss: 0.99535   loss_alpha: 0.40550   loss_color: 0.09547   loss_cross: 0.49438
+[36 / 500] 	Lr: 0.00001
+loss: 0.99232   loss_alpha: 0.40296   loss_color: 0.09463   loss_cross: 0.49473
+[37 / 500] 	Lr: 0.00001
+loss: 0.99050   loss_alpha: 0.39944   loss_color: 0.09384   loss_cross: 0.49723
+[38 / 500] 	Lr: 0.00001
+loss: 0.97900   loss_alpha: 0.39607   loss_color: 0.09251   loss_cross: 0.49042
+[39 / 500] 	Lr: 0.00001
+loss: 0.96200   loss_alpha: 0.39012   loss_color: 0.09106   loss_cross: 0.48082
+[40 / 500] 	Lr: 0.00001
+loss: 0.96313   loss_alpha: 0.38765   loss_color: 0.09110   loss_cross: 0.48438
+[41 / 500] 	Lr: 0.00001
+loss: 0.95908   loss_alpha: 0.38683   loss_color: 0.09003   loss_cross: 0.48222
+[42 / 500] 	Lr: 0.00001
+loss: 0.95011   loss_alpha: 0.38188   loss_color: 0.08942   loss_cross: 0.47880
+[43 / 500] 	Lr: 0.00001
+loss: 0.95219   loss_alpha: 0.38155   loss_color: 0.08905   loss_cross: 0.48159
+[44 / 500] 	Lr: 0.00001
+loss: 0.93701   loss_alpha: 0.37580   loss_color: 0.08755   loss_cross: 0.47366
+[45 / 500] 	Lr: 0.00001
+loss: 0.92450   loss_alpha: 0.37146   loss_color: 0.08678   loss_cross: 0.46626
+[46 / 500] 	Lr: 0.00001
+loss: 0.92255   loss_alpha: 0.36889   loss_color: 0.08661   loss_cross: 0.46705
+[47 / 500] 	Lr: 0.00001
+loss: 0.91824   loss_alpha: 0.36622   loss_color: 0.08503   loss_cross: 0.46699
+[48 / 500] 	Lr: 0.00001
+loss: 0.91228   loss_alpha: 0.36249   loss_color: 0.08459   loss_cross: 0.46520
+[49 / 500] 	Lr: 0.00001
+loss: 0.90572   loss_alpha: 0.36033   loss_color: 0.08342   loss_cross: 0.46198
+[50 / 500] 	Lr: 0.00001
+loss: 0.89361   loss_alpha: 0.35511   loss_color: 0.08216   loss_cross: 0.45634
+[51 / 500] 	Lr: 0.00001
+loss: 0.89788   loss_alpha: 0.35458   loss_color: 0.08235   loss_cross: 0.46095
+[52 / 500] 	Lr: 0.00001
+loss: 0.90150   loss_alpha: 0.35345   loss_color: 0.08211   loss_cross: 0.46594
+[53 / 500] 	Lr: 0.00001
+loss: 0.89530   loss_alpha: 0.35142   loss_color: 0.08169   loss_cross: 0.46219
+[54 / 500] 	Lr: 0.00001
+loss: 0.86934   loss_alpha: 0.34376   loss_color: 0.08129   loss_cross: 0.44429
+[55 / 500] 	Lr: 0.00001
+loss: 0.87433   loss_alpha: 0.34303   loss_color: 0.07977   loss_cross: 0.45154
+[56 / 500] 	Lr: 0.00001
+loss: 0.87739   loss_alpha: 0.34249   loss_color: 0.07945   loss_cross: 0.45545
+[57 / 500] 	Lr: 0.00001
+loss: 0.86892   loss_alpha: 0.33937   loss_color: 0.07905   loss_cross: 0.45050
+[58 / 500] 	Lr: 0.00001
+loss: 0.87488   loss_alpha: 0.33921   loss_color: 0.07956   loss_cross: 0.45612
+[59 / 500] 	Lr: 0.00001
+loss: 0.87149   loss_alpha: 0.33652   loss_color: 0.07821   loss_cross: 0.45676
+[60 / 500] 	Lr: 0.00001
+loss: 0.85347   loss_alpha: 0.33043   loss_color: 0.07660   loss_cross: 0.44643
+[61 / 500] 	Lr: 0.00001
+loss: 0.86187   loss_alpha: 0.33184   loss_color: 0.07779   loss_cross: 0.45225
+[62 / 500] 	Lr: 0.00001
+loss: 0.84705   loss_alpha: 0.32598   loss_color: 0.07576   loss_cross: 0.44531
+[63 / 500] 	Lr: 0.00001
+loss: 0.84244   loss_alpha: 0.32401   loss_color: 0.07531   loss_cross: 0.44313
+[64 / 500] 	Lr: 0.00001
+loss: 0.84751   loss_alpha: 0.32497   loss_color: 0.07510   loss_cross: 0.44744
+[65 / 500] 	Lr: 0.00001
+loss: 0.84502   loss_alpha: 0.32201   loss_color: 0.07499   loss_cross: 0.44801
+[66 / 500] 	Lr: 0.00001
+loss: 0.83849   loss_alpha: 0.31785   loss_color: 0.07356   loss_cross: 0.44708
+[67 / 500] 	Lr: 0.00001
+loss: 0.82846   loss_alpha: 0.31567   loss_color: 0.07285   loss_cross: 0.43993
+[68 / 500] 	Lr: 0.00001
+loss: 0.82645   loss_alpha: 0.31325   loss_color: 0.07358   loss_cross: 0.43962
+[69 / 500] 	Lr: 0.00001
+loss: 0.82943   loss_alpha: 0.31203   loss_color: 0.07225   loss_cross: 0.44515
+[70 / 500] 	Lr: 0.00001
+loss: 0.81434   loss_alpha: 0.30654   loss_color: 0.07149   loss_cross: 0.43631
+[71 / 500] 	Lr: 0.00001
+loss: 0.81042   loss_alpha: 0.30484   loss_color: 0.07140   loss_cross: 0.43418
+[72 / 500] 	Lr: 0.00001
+loss: 0.80318   loss_alpha: 0.30237   loss_color: 0.07082   loss_cross: 0.42998
+[73 / 500] 	Lr: 0.00001
+loss: 0.80715   loss_alpha: 0.30191   loss_color: 0.07090   loss_cross: 0.43435
+[74 / 500] 	Lr: 0.00001
+loss: 0.80630   loss_alpha: 0.30038   loss_color: 0.07088   loss_cross: 0.43505
+[75 / 500] 	Lr: 0.00001
+loss: 0.79911   loss_alpha: 0.29788   loss_color: 0.06922   loss_cross: 0.43201
+[76 / 500] 	Lr: 0.00001
+loss: 0.78242   loss_alpha: 0.29260   loss_color: 0.06798   loss_cross: 0.42184
+[77 / 500] 	Lr: 0.00001
+loss: 0.78620   loss_alpha: 0.29148   loss_color: 0.06769   loss_cross: 0.42702
+[78 / 500] 	Lr: 0.00001
+loss: 0.78290   loss_alpha: 0.29029   loss_color: 0.06778   loss_cross: 0.42482
+[79 / 500] 	Lr: 0.00001
+loss: 0.78761   loss_alpha: 0.28958   loss_color: 0.06810   loss_cross: 0.42993
+[80 / 500] 	Lr: 0.00001
+loss: 0.78433   loss_alpha: 0.28739   loss_color: 0.06666   loss_cross: 0.43028
+[81 / 500] 	Lr: 0.00001
+loss: 0.79666   loss_alpha: 0.28942   loss_color: 0.06888   loss_cross: 0.43836
+[82 / 500] 	Lr: 0.00001
+loss: 0.78609   loss_alpha: 0.28635   loss_color: 0.06709   loss_cross: 0.43265
+[83 / 500] 	Lr: 0.00001
+loss: 0.76929   loss_alpha: 0.28145   loss_color: 0.06536   loss_cross: 0.42247
+[84 / 500] 	Lr: 0.00001
+loss: 0.76934   loss_alpha: 0.28016   loss_color: 0.06554   loss_cross: 0.42364
+[85 / 500] 	Lr: 0.00001
+loss: 0.77329   loss_alpha: 0.28066   loss_color: 0.06561   loss_cross: 0.42702
+[86 / 500] 	Lr: 0.00001
+loss: 0.76260   loss_alpha: 0.27678   loss_color: 0.06437   loss_cross: 0.42145
+[87 / 500] 	Lr: 0.00001
+loss: 0.76112   loss_alpha: 0.27532   loss_color: 0.06468   loss_cross: 0.42111
+[88 / 500] 	Lr: 0.00001
+loss: 0.75442   loss_alpha: 0.27338   loss_color: 0.06387   loss_cross: 0.41716
+[89 / 500] 	Lr: 0.00001
+loss: 0.74849   loss_alpha: 0.27065   loss_color: 0.06269   loss_cross: 0.41515
+[90 / 500] 	Lr: 0.00001
+loss: 0.74768   loss_alpha: 0.26924   loss_color: 0.06298   loss_cross: 0.41546
+[91 / 500] 	Lr: 0.00001
+loss: 0.74611   loss_alpha: 0.26778   loss_color: 0.06298   loss_cross: 0.41534
+[92 / 500] 	Lr: 0.00001
+loss: 0.74866   loss_alpha: 0.26823   loss_color: 0.06271   loss_cross: 0.41773
+[93 / 500] 	Lr: 0.00001
+loss: 0.75383   loss_alpha: 0.26904   loss_color: 0.06247   loss_cross: 0.42232
+[94 / 500] 	Lr: 0.00001
+loss: 0.74337   loss_alpha: 0.26417   loss_color: 0.06176   loss_cross: 0.41744
+[95 / 500] 	Lr: 0.00001
+loss: 0.73208   loss_alpha: 0.26216   loss_color: 0.06114   loss_cross: 0.40878
+[96 / 500] 	Lr: 0.00001
+loss: 0.74622   loss_alpha: 0.26458   loss_color: 0.06181   loss_cross: 0.41983
+[97 / 500] 	Lr: 0.00001
+loss: 0.71605   loss_alpha: 0.25622   loss_color: 0.06008   loss_cross: 0.39975
+[98 / 500] 	Lr: 0.00001
+loss: 0.73379   loss_alpha: 0.26038   loss_color: 0.06043   loss_cross: 0.41298
+[99 / 500] 	Lr: 0.00001
+loss: 0.72291   loss_alpha: 0.25602   loss_color: 0.05962   loss_cross: 0.40728
+[100 / 500] 	Lr: 0.00001
+loss: 0.75085   loss_alpha: 0.26157   loss_color: 0.06110   loss_cross: 0.42818
+[101 / 500] 	Lr: 0.00001
+loss: 0.74087   loss_alpha: 0.25989   loss_color: 0.06061   loss_cross: 0.42037
+[102 / 500] 	Lr: 0.00001
+loss: 0.72728   loss_alpha: 0.25647   loss_color: 0.05993   loss_cross: 0.41088
+[103 / 500] 	Lr: 0.00001
+loss: 0.72263   loss_alpha: 0.25351   loss_color: 0.05926   loss_cross: 0.40986
+[104 / 500] 	Lr: 0.00001
+loss: 0.71084   loss_alpha: 0.25031   loss_color: 0.05873   loss_cross: 0.40180
+[105 / 500] 	Lr: 0.00001
+loss: 0.72268   loss_alpha: 0.25229   loss_color: 0.05939   loss_cross: 0.41100
+[106 / 500] 	Lr: 0.00001
+loss: 0.72497   loss_alpha: 0.25189   loss_color: 0.05794   loss_cross: 0.41514
+[107 / 500] 	Lr: 0.00001
+loss: 0.73205   loss_alpha: 0.25594   loss_color: 0.06006   loss_cross: 0.41605
+[108 / 500] 	Lr: 0.00001
+loss: 0.71300   loss_alpha: 0.24856   loss_color: 0.05763   loss_cross: 0.40680
+[109 / 500] 	Lr: 0.00001
+loss: 0.70761   loss_alpha: 0.24755   loss_color: 0.05677   loss_cross: 0.40329
+[110 / 500] 	Lr: 0.00001
+loss: 0.70325   loss_alpha: 0.24469   loss_color: 0.05683   loss_cross: 0.40173
+[111 / 500] 	Lr: 0.00001
+loss: 0.70256   loss_alpha: 0.24317   loss_color: 0.05689   loss_cross: 0.40250
+[112 / 500] 	Lr: 0.00001
+loss: 0.69854   loss_alpha: 0.24232   loss_color: 0.05648   loss_cross: 0.39974
+[113 / 500] 	Lr: 0.00001
+loss: 0.69962   loss_alpha: 0.24144   loss_color: 0.05642   loss_cross: 0.40177
+[114 / 500] 	Lr: 0.00001
+loss: 0.69528   loss_alpha: 0.24000   loss_color: 0.05701   loss_cross: 0.39826
+[115 / 500] 	Lr: 0.00001
+loss: 0.70476   loss_alpha: 0.24433   loss_color: 0.05666   loss_cross: 0.40376
+[116 / 500] 	Lr: 0.00001
+loss: 0.69398   loss_alpha: 0.23954   loss_color: 0.05529   loss_cross: 0.39915
+[117 / 500] 	Lr: 0.00001
+loss: 0.68106   loss_alpha: 0.23510   loss_color: 0.05546   loss_cross: 0.39050
+[118 / 500] 	Lr: 0.00001
+loss: 0.68321   loss_alpha: 0.23513   loss_color: 0.05511   loss_cross: 0.39297
+[119 / 500] 	Lr: 0.00001
+loss: 0.68852   loss_alpha: 0.23571   loss_color: 0.05466   loss_cross: 0.39816
+[120 / 500] 	Lr: 0.00001
+loss: 0.69224   loss_alpha: 0.23656   loss_color: 0.05487   loss_cross: 0.40080
+[121 / 500] 	Lr: 0.00001
+loss: 0.68057   loss_alpha: 0.23181   loss_color: 0.05389   loss_cross: 0.39487
+[122 / 500] 	Lr: 0.00001
+loss: 0.67870   loss_alpha: 0.23195   loss_color: 0.05363   loss_cross: 0.39312
+[123 / 500] 	Lr: 0.00001
+loss: 0.69612   loss_alpha: 0.23722   loss_color: 0.05599   loss_cross: 0.40291
+[124 / 500] 	Lr: 0.00001
+loss: 0.68874   loss_alpha: 0.23412   loss_color: 0.05468   loss_cross: 0.39994
+[125 / 500] 	Lr: 0.00001
+loss: 0.65891   loss_alpha: 0.22507   loss_color: 0.05286   loss_cross: 0.38098
+[126 / 500] 	Lr: 0.00001
+loss: 0.68484   loss_alpha: 0.23061   loss_color: 0.05374   loss_cross: 0.40049
+[127 / 500] 	Lr: 0.00001
+loss: 0.68123   loss_alpha: 0.23117   loss_color: 0.05373   loss_cross: 0.39633
+[128 / 500] 	Lr: 0.00001
+loss: 0.68428   loss_alpha: 0.23223   loss_color: 0.05492   loss_cross: 0.39713
+[129 / 500] 	Lr: 0.00001
+loss: 0.67550   loss_alpha: 0.22851   loss_color: 0.05362   loss_cross: 0.39337
+[130 / 500] 	Lr: 0.00001
+loss: 0.69402   loss_alpha: 0.23408   loss_color: 0.05441   loss_cross: 0.40553
+[131 / 500] 	Lr: 0.00001
+loss: 0.67622   loss_alpha: 0.22651   loss_color: 0.05349   loss_cross: 0.39622
+[132 / 500] 	Lr: 0.00001
+loss: 0.68251   loss_alpha: 0.22948   loss_color: 0.05312   loss_cross: 0.39990
+[133 / 500] 	Lr: 0.00001
+loss: 0.67655   loss_alpha: 0.22807   loss_color: 0.05388   loss_cross: 0.39460
+[134 / 500] 	Lr: 0.00001
+loss: 0.65884   loss_alpha: 0.22240   loss_color: 0.05231   loss_cross: 0.38414
+[135 / 500] 	Lr: 0.00001
+loss: 0.66120   loss_alpha: 0.22225   loss_color: 0.05238   loss_cross: 0.38657
+[136 / 500] 	Lr: 0.00001
+loss: 0.66022   loss_alpha: 0.22228   loss_color: 0.05217   loss_cross: 0.38578
+[137 / 500] 	Lr: 0.00001
+loss: 0.65094   loss_alpha: 0.21847   loss_color: 0.05240   loss_cross: 0.38007
+[138 / 500] 	Lr: 0.00001
+loss: 0.67255   loss_alpha: 0.22382   loss_color: 0.05215   loss_cross: 0.39658
+[139 / 500] 	Lr: 0.00001
+loss: 0.65175   loss_alpha: 0.21750   loss_color: 0.05116   loss_cross: 0.38309
+[140 / 500] 	Lr: 0.00001
+loss: 0.65669   loss_alpha: 0.22046   loss_color: 0.05129   loss_cross: 0.38494
+[141 / 500] 	Lr: 0.00001
+loss: 0.64947   loss_alpha: 0.21679   loss_color: 0.05064   loss_cross: 0.38203
+[142 / 500] 	Lr: 0.00001
+loss: 0.63726   loss_alpha: 0.21371   loss_color: 0.04976   loss_cross: 0.37379
+[143 / 500] 	Lr: 0.00001
+loss: 0.64907   loss_alpha: 0.21577   loss_color: 0.05087   loss_cross: 0.38243
+[144 / 500] 	Lr: 0.00001
+loss: 0.65309   loss_alpha: 0.21703   loss_color: 0.05066   loss_cross: 0.38540
+[145 / 500] 	Lr: 0.00001
+loss: 0.66079   loss_alpha: 0.21735   loss_color: 0.05116   loss_cross: 0.39228
+[146 / 500] 	Lr: 0.00001
+loss: 0.65643   loss_alpha: 0.21717   loss_color: 0.05056   loss_cross: 0.38869
+[147 / 500] 	Lr: 0.00001
+loss: 0.64587   loss_alpha: 0.21461   loss_color: 0.05017   loss_cross: 0.38109
+[148 / 500] 	Lr: 0.00001
+loss: 0.65600   loss_alpha: 0.21704   loss_color: 0.05121   loss_cross: 0.38775
+[149 / 500] 	Lr: 0.00001
+loss: 0.63923   loss_alpha: 0.21128   loss_color: 0.04925   loss_cross: 0.37869
+[150 / 500] 	Lr: 0.00001
+loss: 0.66104   loss_alpha: 0.21818   loss_color: 0.05040   loss_cross: 0.39245
+[151 / 500] 	Lr: 0.00001
+loss: 0.65348   loss_alpha: 0.21609   loss_color: 0.05074   loss_cross: 0.38666
+[152 / 500] 	Lr: 0.00001
+loss: 0.63783   loss_alpha: 0.21050   loss_color: 0.05038   loss_cross: 0.37695
+[153 / 500] 	Lr: 0.00001
+loss: 0.64574   loss_alpha: 0.21355   loss_color: 0.04958   loss_cross: 0.38261
+[154 / 500] 	Lr: 0.00001
+loss: 0.65897   loss_alpha: 0.21468   loss_color: 0.05031   loss_cross: 0.39398
+[155 / 500] 	Lr: 0.00001
+loss: 0.64161   loss_alpha: 0.21097   loss_color: 0.04987   loss_cross: 0.38076
+[156 / 500] 	Lr: 0.00001
+loss: 0.63146   loss_alpha: 0.20704   loss_color: 0.04795   loss_cross: 0.37647
+[157 / 500] 	Lr: 0.00001
+loss: 0.63705   loss_alpha: 0.20869   loss_color: 0.04806   loss_cross: 0.38030
+[158 / 500] 	Lr: 0.00001
+loss: 0.64260   loss_alpha: 0.21074   loss_color: 0.04867   loss_cross: 0.38320
+[159 / 500] 	Lr: 0.00001
+loss: 0.62845   loss_alpha: 0.20593   loss_color: 0.04834   loss_cross: 0.37417
+[160 / 500] 	Lr: 0.00001
+loss: 0.62038   loss_alpha: 0.20349   loss_color: 0.04747   loss_cross: 0.36942
+[161 / 500] 	Lr: 0.00001
+loss: 0.63092   loss_alpha: 0.20524   loss_color: 0.04845   loss_cross: 0.37723
+[162 / 500] 	Lr: 0.00001
+loss: 0.63355   loss_alpha: 0.20515   loss_color: 0.04808   loss_cross: 0.38032
+[163 / 500] 	Lr: 0.00001
+loss: 0.63967   loss_alpha: 0.20643   loss_color: 0.04840   loss_cross: 0.38484
+[164 / 500] 	Lr: 0.00001
+loss: 0.63424   loss_alpha: 0.20695   loss_color: 0.04881   loss_cross: 0.37848
+[165 / 500] 	Lr: 0.00001
+loss: 0.61085   loss_alpha: 0.20016   loss_color: 0.04737   loss_cross: 0.36333
+[166 / 500] 	Lr: 0.00001
+loss: 0.61362   loss_alpha: 0.20125   loss_color: 0.04759   loss_cross: 0.36478
+[167 / 500] 	Lr: 0.00001
+loss: 0.61970   loss_alpha: 0.20089   loss_color: 0.04793   loss_cross: 0.37088
+[168 / 500] 	Lr: 0.00001
+loss: 0.62832   loss_alpha: 0.20387   loss_color: 0.04880   loss_cross: 0.37565
+[169 / 500] 	Lr: 0.00001
+loss: 0.63398   loss_alpha: 0.20501   loss_color: 0.04835   loss_cross: 0.38062
+[170 / 500] 	Lr: 0.00001
+loss: 0.61684   loss_alpha: 0.19846   loss_color: 0.04645   loss_cross: 0.37192
+[171 / 500] 	Lr: 0.00001
+loss: 0.61763   loss_alpha: 0.19913   loss_color: 0.04711   loss_cross: 0.37139
+[172 / 500] 	Lr: 0.00001
+loss: 0.63567   loss_alpha: 0.20455   loss_color: 0.04885   loss_cross: 0.38227
+[173 / 500] 	Lr: 0.00001
+loss: 0.62727   loss_alpha: 0.20171   loss_color: 0.04831   loss_cross: 0.37725
+[174 / 500] 	Lr: 0.00001
+loss: 0.62659   loss_alpha: 0.20098   loss_color: 0.04646   loss_cross: 0.37915
+[175 / 500] 	Lr: 0.00001
+loss: 0.61674   loss_alpha: 0.19959   loss_color: 0.04689   loss_cross: 0.37026
+[176 / 500] 	Lr: 0.00001
+loss: 0.62588   loss_alpha: 0.20007   loss_color: 0.04827   loss_cross: 0.37755
+[177 / 500] 	Lr: 0.00001
+loss: 0.60704   loss_alpha: 0.19513   loss_color: 0.04575   loss_cross: 0.36617
+[178 / 500] 	Lr: 0.00001
+loss: 0.61219   loss_alpha: 0.19596   loss_color: 0.04566   loss_cross: 0.37056
+[179 / 500] 	Lr: 0.00001
+loss: 0.60709   loss_alpha: 0.19431   loss_color: 0.04603   loss_cross: 0.36675
+[180 / 500] 	Lr: 0.00001
+loss: 0.61329   loss_alpha: 0.19676   loss_color: 0.04568   loss_cross: 0.37085
+[181 / 500] 	Lr: 0.00001
+loss: 0.62356   loss_alpha: 0.19873   loss_color: 0.04692   loss_cross: 0.37791
+[182 / 500] 	Lr: 0.00001
+loss: 0.61043   loss_alpha: 0.19654   loss_color: 0.04661   loss_cross: 0.36728
+[183 / 500] 	Lr: 0.00001
+loss: 0.61643   loss_alpha: 0.19762   loss_color: 0.04645   loss_cross: 0.37236
+[184 / 500] 	Lr: 0.00001
+loss: 0.59721   loss_alpha: 0.18999   loss_color: 0.04458   loss_cross: 0.36265
+[185 / 500] 	Lr: 0.00001
+loss: 0.60000   loss_alpha: 0.19336   loss_color: 0.04528   loss_cross: 0.36136
+[186 / 500] 	Lr: 0.00001
+loss: 0.60900   loss_alpha: 0.19373   loss_color: 0.04563   loss_cross: 0.36963
+[187 / 500] 	Lr: 0.00001
+loss: 0.61050   loss_alpha: 0.19455   loss_color: 0.04561   loss_cross: 0.37034
+[188 / 500] 	Lr: 0.00001
+loss: 0.61125   loss_alpha: 0.19475   loss_color: 0.04580   loss_cross: 0.37071
+[189 / 500] 	Lr: 0.00001
+loss: 0.60227   loss_alpha: 0.19148   loss_color: 0.04515   loss_cross: 0.36563
+[190 / 500] 	Lr: 0.00001
+loss: 0.59011   loss_alpha: 0.18796   loss_color: 0.04432   loss_cross: 0.35782
+[191 / 500] 	Lr: 0.00001
+loss: 0.61479   loss_alpha: 0.19619   loss_color: 0.04557   loss_cross: 0.37303
+[192 / 500] 	Lr: 0.00001
+loss: 0.59905   loss_alpha: 0.18935   loss_color: 0.04431   loss_cross: 0.36539
+[193 / 500] 	Lr: 0.00001
+loss: 0.60187   loss_alpha: 0.19080   loss_color: 0.04502   loss_cross: 0.36604
+[194 / 500] 	Lr: 0.00001
+loss: 0.59582   loss_alpha: 0.18897   loss_color: 0.04454   loss_cross: 0.36230
+[195 / 500] 	Lr: 0.00001
+loss: 0.58570   loss_alpha: 0.18581   loss_color: 0.04388   loss_cross: 0.35601
+[196 / 500] 	Lr: 0.00001
+loss: 0.60398   loss_alpha: 0.19134   loss_color: 0.04510   loss_cross: 0.36755
+[197 / 500] 	Lr: 0.00001
+loss: 0.60739   loss_alpha: 0.19111   loss_color: 0.04474   loss_cross: 0.37154
+[198 / 500] 	Lr: 0.00001
+loss: 0.59976   loss_alpha: 0.18881   loss_color: 0.04453   loss_cross: 0.36642
+[199 / 500] 	Lr: 0.00001
+loss: 0.58159   loss_alpha: 0.18463   loss_color: 0.04306   loss_cross: 0.35390
+[200 / 500] 	Lr: 0.00001
+loss: 0.60487   loss_alpha: 0.19090   loss_color: 0.04502   loss_cross: 0.36895
+[201 / 500] 	Lr: 0.00001
+loss: 0.60796   loss_alpha: 0.19135   loss_color: 0.04560   loss_cross: 0.37101
+[202 / 500] 	Lr: 0.00001
+loss: 0.59857   loss_alpha: 0.18720   loss_color: 0.04465   loss_cross: 0.36673
+[203 / 500] 	Lr: 0.00001
+loss: 0.58340   loss_alpha: 0.18492   loss_color: 0.04402   loss_cross: 0.35446
+[204 / 500] 	Lr: 0.00001
+loss: 0.59419   loss_alpha: 0.18712   loss_color: 0.04496   loss_cross: 0.36211
+[205 / 500] 	Lr: 0.00001
+loss: 0.60223   loss_alpha: 0.18811   loss_color: 0.04463   loss_cross: 0.36948
+[206 / 500] 	Lr: 0.00001
+loss: 0.58441   loss_alpha: 0.18359   loss_color: 0.04345   loss_cross: 0.35737
+[207 / 500] 	Lr: 0.00001
+loss: 0.60466   loss_alpha: 0.18924   loss_color: 0.04481   loss_cross: 0.37061
+[208 / 500] 	Lr: 0.00001
+loss: 0.59884   loss_alpha: 0.18738   loss_color: 0.04468   loss_cross: 0.36678
+[209 / 500] 	Lr: 0.00001
+loss: 0.58349   loss_alpha: 0.18156   loss_color: 0.04299   loss_cross: 0.35893
+[210 / 500] 	Lr: 0.00001
+loss: 0.58360   loss_alpha: 0.18391   loss_color: 0.04331   loss_cross: 0.35638
+[211 / 500] 	Lr: 0.00001
+loss: 0.58792   loss_alpha: 0.18339   loss_color: 0.04308   loss_cross: 0.36144
+[212 / 500] 	Lr: 0.00001
+loss: 0.58272   loss_alpha: 0.18219   loss_color: 0.04277   loss_cross: 0.35777
+[213 / 500] 	Lr: 0.00001
+loss: 0.58630   loss_alpha: 0.18185   loss_color: 0.04326   loss_cross: 0.36119
+[214 / 500] 	Lr: 0.00001
+loss: 0.57791   loss_alpha: 0.18079   loss_color: 0.04302   loss_cross: 0.35409
+[215 / 500] 	Lr: 0.00001
+loss: 0.58435   loss_alpha: 0.18195   loss_color: 0.04281   loss_cross: 0.35959
+[216 / 500] 	Lr: 0.00001
+loss: 0.57570   loss_alpha: 0.17988   loss_color: 0.04262   loss_cross: 0.35320
+[217 / 500] 	Lr: 0.00001
+loss: 0.57878   loss_alpha: 0.18005   loss_color: 0.04203   loss_cross: 0.35671
+[218 / 500] 	Lr: 0.00001
+loss: 0.56272   loss_alpha: 0.17620   loss_color: 0.04157   loss_cross: 0.34495
+[219 / 500] 	Lr: 0.00001
+loss: 0.57829   loss_alpha: 0.17944   loss_color: 0.04233   loss_cross: 0.35653
+[220 / 500] 	Lr: 0.00001
+loss: 0.57722   loss_alpha: 0.17900   loss_color: 0.04233   loss_cross: 0.35589
+[221 / 500] 	Lr: 0.00001
+loss: 0.56772   loss_alpha: 0.17611   loss_color: 0.04107   loss_cross: 0.35054
+[222 / 500] 	Lr: 0.00001
+loss: 0.59144   loss_alpha: 0.18386   loss_color: 0.04357   loss_cross: 0.36401
+[223 / 500] 	Lr: 0.00001
+loss: 0.58784   loss_alpha: 0.18148   loss_color: 0.04350   loss_cross: 0.36286
+[224 / 500] 	Lr: 0.00001
+loss: 0.58859   loss_alpha: 0.18202   loss_color: 0.04323   loss_cross: 0.36334
+[225 / 500] 	Lr: 0.00001
+loss: 0.57453   loss_alpha: 0.17656   loss_color: 0.04235   loss_cross: 0.35561
+[226 / 500] 	Lr: 0.00001
+loss: 0.56964   loss_alpha: 0.17642   loss_color: 0.04138   loss_cross: 0.35184
+[227 / 500] 	Lr: 0.00001
+loss: 0.55828   loss_alpha: 0.17330   loss_color: 0.04084   loss_cross: 0.34414
+[228 / 500] 	Lr: 0.00001
+loss: 0.58303   loss_alpha: 0.17786   loss_color: 0.04223   loss_cross: 0.36294
+[229 / 500] 	Lr: 0.00001
+loss: 0.57919   loss_alpha: 0.17740   loss_color: 0.04199   loss_cross: 0.35981
+[230 / 500] 	Lr: 0.00001
+loss: 0.56409   loss_alpha: 0.17399   loss_color: 0.04155   loss_cross: 0.34855
+[231 / 500] 	Lr: 0.00001
+loss: 0.59424   loss_alpha: 0.18193   loss_color: 0.04366   loss_cross: 0.36865
+[232 / 500] 	Lr: 0.00001
+loss: 0.57475   loss_alpha: 0.17636   loss_color: 0.04157   loss_cross: 0.35681
+[233 / 500] 	Lr: 0.00001
+loss: 0.57555   loss_alpha: 0.17653   loss_color: 0.04221   loss_cross: 0.35682
+[234 / 500] 	Lr: 0.00001
+loss: 0.57031   loss_alpha: 0.17493   loss_color: 0.04167   loss_cross: 0.35371
+[235 / 500] 	Lr: 0.00001
+loss: 0.55842   loss_alpha: 0.17174   loss_color: 0.04024   loss_cross: 0.34644
+[236 / 500] 	Lr: 0.00001
+loss: 0.57443   loss_alpha: 0.17562   loss_color: 0.04111   loss_cross: 0.35770
+[237 / 500] 	Lr: 0.00001
+loss: 0.56727   loss_alpha: 0.17459   loss_color: 0.04242   loss_cross: 0.35026
+[238 / 500] 	Lr: 0.00001
+loss: 0.58468   loss_alpha: 0.17814   loss_color: 0.04221   loss_cross: 0.36433
+[239 / 500] 	Lr: 0.00001
+loss: 0.55567   loss_alpha: 0.16997   loss_color: 0.04012   loss_cross: 0.34558
+[240 / 500] 	Lr: 0.00001
+loss: 0.55765   loss_alpha: 0.17165   loss_color: 0.04140   loss_cross: 0.34460
+[241 / 500] 	Lr: 0.00001
+loss: 0.55633   loss_alpha: 0.16990   loss_color: 0.04027   loss_cross: 0.34616
+[242 / 500] 	Lr: 0.00001
+loss: 0.57040   loss_alpha: 0.17395   loss_color: 0.04152   loss_cross: 0.35492
+[243 / 500] 	Lr: 0.00001
+loss: 0.58602   loss_alpha: 0.17759   loss_color: 0.04300   loss_cross: 0.36543
+[244 / 500] 	Lr: 0.00001
+loss: 0.57280   loss_alpha: 0.17543   loss_color: 0.04184   loss_cross: 0.35554
+[245 / 500] 	Lr: 0.00001
+loss: 0.57232   loss_alpha: 0.17442   loss_color: 0.04081   loss_cross: 0.35709
+[246 / 500] 	Lr: 0.00001
+loss: 0.54704   loss_alpha: 0.16701   loss_color: 0.03957   loss_cross: 0.34046
+[247 / 500] 	Lr: 0.00001
+loss: 0.55646   loss_alpha: 0.17007   loss_color: 0.04049   loss_cross: 0.34590
+[248 / 500] 	Lr: 0.00001
+loss: 0.55726   loss_alpha: 0.16920   loss_color: 0.04066   loss_cross: 0.34740
+[249 / 500] 	Lr: 0.00001
+loss: 0.56468   loss_alpha: 0.17153   loss_color: 0.04065   loss_cross: 0.35249
+[250 / 500] 	Lr: 0.00001
+loss: 0.56477   loss_alpha: 0.17127   loss_color: 0.04125   loss_cross: 0.35225
+[251 / 500] 	Lr: 0.00001
+loss: 0.55506   loss_alpha: 0.16729   loss_color: 0.03974   loss_cross: 0.34804
+[252 / 500] 	Lr: 0.00001
+loss: 0.57374   loss_alpha: 0.17376   loss_color: 0.04206   loss_cross: 0.35792
+[253 / 500] 	Lr: 0.00001
+loss: 0.54790   loss_alpha: 0.16794   loss_color: 0.03972   loss_cross: 0.34024
+[254 / 500] 	Lr: 0.00001
+loss: 0.55779   loss_alpha: 0.16921   loss_color: 0.04011   loss_cross: 0.34848
+[255 / 500] 	Lr: 0.00001
+loss: 0.54544   loss_alpha: 0.16517   loss_color: 0.03971   loss_cross: 0.34056
+[256 / 500] 	Lr: 0.00001
+loss: 0.54068   loss_alpha: 0.16474   loss_color: 0.03854   loss_cross: 0.33740
+[257 / 500] 	Lr: 0.00001
+loss: 0.54262   loss_alpha: 0.16401   loss_color: 0.03863   loss_cross: 0.33997
+[258 / 500] 	Lr: 0.00001
+loss: 0.53540   loss_alpha: 0.16150   loss_color: 0.03876   loss_cross: 0.33514
+[259 / 500] 	Lr: 0.00001
+loss: 0.54032   loss_alpha: 0.16271   loss_color: 0.03928   loss_cross: 0.33832
+[260 / 500] 	Lr: 0.00001
+loss: 0.55815   loss_alpha: 0.16891   loss_color: 0.03992   loss_cross: 0.34931
+[261 / 500] 	Lr: 0.00001
+loss: 0.55844   loss_alpha: 0.16840   loss_color: 0.04120   loss_cross: 0.34884
+[262 / 500] 	Lr: 0.00001
+loss: 0.56410   loss_alpha: 0.17031   loss_color: 0.04161   loss_cross: 0.35218
+[263 / 500] 	Lr: 0.00001
+loss: 0.53736   loss_alpha: 0.16323   loss_color: 0.03908   loss_cross: 0.33505
+[264 / 500] 	Lr: 0.00001
+loss: 0.56333   loss_alpha: 0.16965   loss_color: 0.04118   loss_cross: 0.35251
+[265 / 500] 	Lr: 0.00001
+loss: 0.55310   loss_alpha: 0.16670   loss_color: 0.04064   loss_cross: 0.34576
+[266 / 500] 	Lr: 0.00001
+loss: 0.55175   loss_alpha: 0.16707   loss_color: 0.03941   loss_cross: 0.34527
+[267 / 500] 	Lr: 0.00001
+loss: 0.52976   loss_alpha: 0.15880   loss_color: 0.03840   loss_cross: 0.33256
+[268 / 500] 	Lr: 0.00001
+loss: 0.55208   loss_alpha: 0.16715   loss_color: 0.04079   loss_cross: 0.34413
+[269 / 500] 	Lr: 0.00001
+loss: 0.55603   loss_alpha: 0.16736   loss_color: 0.03987   loss_cross: 0.34880
+[270 / 500] 	Lr: 0.00001
+loss: 0.55874   loss_alpha: 0.16921   loss_color: 0.04052   loss_cross: 0.34901
+[271 / 500] 	Lr: 0.00001
+loss: 0.54356   loss_alpha: 0.16414   loss_color: 0.03941   loss_cross: 0.34002
+[272 / 500] 	Lr: 0.00001
+loss: 0.54528   loss_alpha: 0.16385   loss_color: 0.03895   loss_cross: 0.34249
+[273 / 500] 	Lr: 0.00001
+loss: 0.54472   loss_alpha: 0.16381   loss_color: 0.03981   loss_cross: 0.34110
+[274 / 500] 	Lr: 0.00001
+loss: 0.52849   loss_alpha: 0.15841   loss_color: 0.03813   loss_cross: 0.33195
+[275 / 500] 	Lr: 0.00001
+loss: 0.54946   loss_alpha: 0.16451   loss_color: 0.03935   loss_cross: 0.34560
+[276 / 500] 	Lr: 0.00001
+loss: 0.54656   loss_alpha: 0.16422   loss_color: 0.03921   loss_cross: 0.34313
+[277 / 500] 	Lr: 0.00001
+loss: 0.53174   loss_alpha: 0.15962   loss_color: 0.03805   loss_cross: 0.33406
+[278 / 500] 	Lr: 0.00001
+loss: 0.54056   loss_alpha: 0.16164   loss_color: 0.03893   loss_cross: 0.33999
+[279 / 500] 	Lr: 0.00001
+loss: 0.53692   loss_alpha: 0.16066   loss_color: 0.03768   loss_cross: 0.33858
+[280 / 500] 	Lr: 0.00001
+loss: 0.52339   loss_alpha: 0.15633   loss_color: 0.03729   loss_cross: 0.32976
+[281 / 500] 	Lr: 0.00001
+loss: 0.53247   loss_alpha: 0.16032   loss_color: 0.03867   loss_cross: 0.33348
+[282 / 500] 	Lr: 0.00001
+loss: 0.54622   loss_alpha: 0.16394   loss_color: 0.03967   loss_cross: 0.34261
+[283 / 500] 	Lr: 0.00001
+loss: 0.54406   loss_alpha: 0.16292   loss_color: 0.03880   loss_cross: 0.34234
+[284 / 500] 	Lr: 0.00001
+loss: 0.53933   loss_alpha: 0.16193   loss_color: 0.03828   loss_cross: 0.33912
+[285 / 500] 	Lr: 0.00001
+loss: 0.52124   loss_alpha: 0.15574   loss_color: 0.03704   loss_cross: 0.32846
+[286 / 500] 	Lr: 0.00001
+loss: 0.53528   loss_alpha: 0.15993   loss_color: 0.03837   loss_cross: 0.33698
+[287 / 500] 	Lr: 0.00001
+loss: 0.52711   loss_alpha: 0.15695   loss_color: 0.03814   loss_cross: 0.33202
+[288 / 500] 	Lr: 0.00001
+loss: 0.55457   loss_alpha: 0.16505   loss_color: 0.03879   loss_cross: 0.35072
+[289 / 500] 	Lr: 0.00001
+loss: 0.54247   loss_alpha: 0.16054   loss_color: 0.03816   loss_cross: 0.34377
+[290 / 500] 	Lr: 0.00001
+loss: 0.54588   loss_alpha: 0.16329   loss_color: 0.03924   loss_cross: 0.34334
+[291 / 500] 	Lr: 0.00001
+loss: 0.53805   loss_alpha: 0.16040   loss_color: 0.03872   loss_cross: 0.33893
+[292 / 500] 	Lr: 0.00001
+loss: 0.53056   loss_alpha: 0.15803   loss_color: 0.03781   loss_cross: 0.33472
+[293 / 500] 	Lr: 0.00001
+loss: 0.54935   loss_alpha: 0.16293   loss_color: 0.03913   loss_cross: 0.34728
+[294 / 500] 	Lr: 0.00001
+loss: 0.53870   loss_alpha: 0.16045   loss_color: 0.03786   loss_cross: 0.34039
+[295 / 500] 	Lr: 0.00001
+loss: 0.52734   loss_alpha: 0.15694   loss_color: 0.03772   loss_cross: 0.33268
+[296 / 500] 	Lr: 0.00001
+loss: 0.52442   loss_alpha: 0.15435   loss_color: 0.03706   loss_cross: 0.33301
+[297 / 500] 	Lr: 0.00001
+loss: 0.52220   loss_alpha: 0.15627   loss_color: 0.03741   loss_cross: 0.32852
+[298 / 500] 	Lr: 0.00001
+loss: 0.52756   loss_alpha: 0.15703   loss_color: 0.03718   loss_cross: 0.33334
+[299 / 500] 	Lr: 0.00001
+loss: 0.53303   loss_alpha: 0.15809   loss_color: 0.03848   loss_cross: 0.33646
+[300 / 500] 	Lr: 0.00001
+loss: 0.53200   loss_alpha: 0.15955   loss_color: 0.03791   loss_cross: 0.33454
+[301 / 500] 	Lr: 0.00001
+loss: 0.52181   loss_alpha: 0.15534   loss_color: 0.03645   loss_cross: 0.33002
+[302 / 500] 	Lr: 0.00001
+loss: 0.50430   loss_alpha: 0.15040   loss_color: 0.03624   loss_cross: 0.31766
+[303 / 500] 	Lr: 0.00001
+loss: 0.53039   loss_alpha: 0.15717   loss_color: 0.03747   loss_cross: 0.33576
+[304 / 500] 	Lr: 0.00001
+loss: 0.53861   loss_alpha: 0.16095   loss_color: 0.03879   loss_cross: 0.33887
+[305 / 500] 	Lr: 0.00001
+loss: 0.53776   loss_alpha: 0.15893   loss_color: 0.03805   loss_cross: 0.34078
+[306 / 500] 	Lr: 0.00001
+loss: 0.51944   loss_alpha: 0.15339   loss_color: 0.03607   loss_cross: 0.32998
+[307 / 500] 	Lr: 0.00001
+loss: 0.52139   loss_alpha: 0.15503   loss_color: 0.03735   loss_cross: 0.32901
+[308 / 500] 	Lr: 0.00001
+loss: 0.52914   loss_alpha: 0.15732   loss_color: 0.03784   loss_cross: 0.33399
+[309 / 500] 	Lr: 0.00001
+loss: 0.52664   loss_alpha: 0.15525   loss_color: 0.03704   loss_cross: 0.33436
+[310 / 500] 	Lr: 0.00001
+loss: 0.51708   loss_alpha: 0.15450   loss_color: 0.03704   loss_cross: 0.32553
+[311 / 500] 	Lr: 0.00001
+loss: 0.53124   loss_alpha: 0.15664   loss_color: 0.03766   loss_cross: 0.33694
+[312 / 500] 	Lr: 0.00001
+loss: 0.53122   loss_alpha: 0.15700   loss_color: 0.03723   loss_cross: 0.33699
+[313 / 500] 	Lr: 0.00001
+loss: 0.53314   loss_alpha: 0.15643   loss_color: 0.03781   loss_cross: 0.33890
+[314 / 500] 	Lr: 0.00001
+loss: 0.53980   loss_alpha: 0.15921   loss_color: 0.03804   loss_cross: 0.34254
+[315 / 500] 	Lr: 0.00001
+loss: 0.51595   loss_alpha: 0.15200   loss_color: 0.03648   loss_cross: 0.32747
+[316 / 500] 	Lr: 0.00001
+loss: 0.50602   loss_alpha: 0.15028   loss_color: 0.03556   loss_cross: 0.32018
+[317 / 500] 	Lr: 0.00001
+loss: 0.51320   loss_alpha: 0.15133   loss_color: 0.03678   loss_cross: 0.32509
+[318 / 500] 	Lr: 0.00001
+loss: 0.51831   loss_alpha: 0.15325   loss_color: 0.03686   loss_cross: 0.32820
+[319 / 500] 	Lr: 0.00001
+loss: 0.51895   loss_alpha: 0.15372   loss_color: 0.03636   loss_cross: 0.32887
+[320 / 500] 	Lr: 0.00001
+loss: 0.52219   loss_alpha: 0.15339   loss_color: 0.03719   loss_cross: 0.33161
+[321 / 500] 	Lr: 0.00001
+loss: 0.52344   loss_alpha: 0.15360   loss_color: 0.03758   loss_cross: 0.33227
+[322 / 500] 	Lr: 0.00001
+loss: 0.52653   loss_alpha: 0.15344   loss_color: 0.03709   loss_cross: 0.33601
+[323 / 500] 	Lr: 0.00001
+loss: 0.52445   loss_alpha: 0.15435   loss_color: 0.03705   loss_cross: 0.33305
+[324 / 500] 	Lr: 0.00001
+loss: 0.51078   loss_alpha: 0.15019   loss_color: 0.03629   loss_cross: 0.32430
+[325 / 500] 	Lr: 0.00001
+loss: 0.51013   loss_alpha: 0.15020   loss_color: 0.03556   loss_cross: 0.32437
+[326 / 500] 	Lr: 0.00001
+loss: 0.50986   loss_alpha: 0.14906   loss_color: 0.03604   loss_cross: 0.32476
+[327 / 500] 	Lr: 0.00001
+loss: 0.51545   loss_alpha: 0.15094   loss_color: 0.03721   loss_cross: 0.32731
+[328 / 500] 	Lr: 0.00001
+loss: 0.51956   loss_alpha: 0.15226   loss_color: 0.03708   loss_cross: 0.33023
+[329 / 500] 	Lr: 0.00001
+loss: 0.49867   loss_alpha: 0.14637   loss_color: 0.03570   loss_cross: 0.31660
+[330 / 500] 	Lr: 0.00001
+loss: 0.51844   loss_alpha: 0.15178   loss_color: 0.03655   loss_cross: 0.33010
+[331 / 500] 	Lr: 0.00001
+loss: 0.50951   loss_alpha: 0.14993   loss_color: 0.03623   loss_cross: 0.32335
+[332 / 500] 	Lr: 0.00001
+loss: 0.51276   loss_alpha: 0.14996   loss_color: 0.03658   loss_cross: 0.32622
+[333 / 500] 	Lr: 0.00001
+loss: 0.51794   loss_alpha: 0.15136   loss_color: 0.03672   loss_cross: 0.32985
+[334 / 500] 	Lr: 0.00001
+loss: 0.52202   loss_alpha: 0.15318   loss_color: 0.03687   loss_cross: 0.33198
+[335 / 500] 	Lr: 0.00001
+loss: 0.51267   loss_alpha: 0.15015   loss_color: 0.03612   loss_cross: 0.32640
+[336 / 500] 	Lr: 0.00001
+loss: 0.52262   loss_alpha: 0.15258   loss_color: 0.03702   loss_cross: 0.33302
+[337 / 500] 	Lr: 0.00001
+loss: 0.50697   loss_alpha: 0.14901   loss_color: 0.03571   loss_cross: 0.32226
+[338 / 500] 	Lr: 0.00001
+loss: 0.51518   loss_alpha: 0.15070   loss_color: 0.03612   loss_cross: 0.32836
+[339 / 500] 	Lr: 0.00001
+loss: 0.51096   loss_alpha: 0.14903   loss_color: 0.03538   loss_cross: 0.32655
+[340 / 500] 	Lr: 0.00001
+loss: 0.50459   loss_alpha: 0.14815   loss_color: 0.03535   loss_cross: 0.32109
+[341 / 500] 	Lr: 0.00001
+loss: 0.49981   loss_alpha: 0.14845   loss_color: 0.03543   loss_cross: 0.31593
+[342 / 500] 	Lr: 0.00001
+loss: 0.50649   loss_alpha: 0.14842   loss_color: 0.03613   loss_cross: 0.32193
+[343 / 500] 	Lr: 0.00001
+loss: 0.49900   loss_alpha: 0.14593   loss_color: 0.03467   loss_cross: 0.31840
+[344 / 500] 	Lr: 0.00001
+loss: 0.50858   loss_alpha: 0.14785   loss_color: 0.03560   loss_cross: 0.32512
+[345 / 500] 	Lr: 0.00001
+loss: 0.50594   loss_alpha: 0.14871   loss_color: 0.03610   loss_cross: 0.32112
+[346 / 500] 	Lr: 0.00001
+loss: 0.49450   loss_alpha: 0.14422   loss_color: 0.03446   loss_cross: 0.31581
+[347 / 500] 	Lr: 0.00001
+loss: 0.51886   loss_alpha: 0.15077   loss_color: 0.03598   loss_cross: 0.33211
+[348 / 500] 	Lr: 0.00001
+loss: 0.50290   loss_alpha: 0.14599   loss_color: 0.03512   loss_cross: 0.32179
+[349 / 500] 	Lr: 0.00001
+loss: 0.51126   loss_alpha: 0.14957   loss_color: 0.03538   loss_cross: 0.32631
+[350 / 500] 	Lr: 0.00001
+loss: 0.50176   loss_alpha: 0.14732   loss_color: 0.03557   loss_cross: 0.31887
+[351 / 500] 	Lr: 0.00001
+loss: 0.51271   loss_alpha: 0.14894   loss_color: 0.03569   loss_cross: 0.32809
+[352 / 500] 	Lr: 0.00001
+loss: 0.53297   loss_alpha: 0.15579   loss_color: 0.03762   loss_cross: 0.33956
+[353 / 500] 	Lr: 0.00001
+loss: 0.49543   loss_alpha: 0.14444   loss_color: 0.03508   loss_cross: 0.31590
+[354 / 500] 	Lr: 0.00001
+loss: 0.50361   loss_alpha: 0.14482   loss_color: 0.03521   loss_cross: 0.32359
+[355 / 500] 	Lr: 0.00001
+loss: 0.51950   loss_alpha: 0.15255   loss_color: 0.03646   loss_cross: 0.33049
+[356 / 500] 	Lr: 0.00001
+loss: 0.49392   loss_alpha: 0.14282   loss_color: 0.03509   loss_cross: 0.31601
+[357 / 500] 	Lr: 0.00001
+loss: 0.50305   loss_alpha: 0.14622   loss_color: 0.03567   loss_cross: 0.32116
+[358 / 500] 	Lr: 0.00001
+loss: 0.51323   loss_alpha: 0.14881   loss_color: 0.03675   loss_cross: 0.32767
+[359 / 500] 	Lr: 0.00001
+loss: 0.51076   loss_alpha: 0.14864   loss_color: 0.03613   loss_cross: 0.32599
+[360 / 500] 	Lr: 0.00001
+loss: 0.51673   loss_alpha: 0.15221   loss_color: 0.03649   loss_cross: 0.32803
+[361 / 500] 	Lr: 0.00001
+loss: 0.52234   loss_alpha: 0.15227   loss_color: 0.03734   loss_cross: 0.33273
+[362 / 500] 	Lr: 0.00001
+loss: 0.51441   loss_alpha: 0.14966   loss_color: 0.03615   loss_cross: 0.32861
+[363 / 500] 	Lr: 0.00001
+loss: 0.48688   loss_alpha: 0.14225   loss_color: 0.03490   loss_cross: 0.30973
+[364 / 500] 	Lr: 0.00001
+loss: 0.49488   loss_alpha: 0.14420   loss_color: 0.03473   loss_cross: 0.31595
+[365 / 500] 	Lr: 0.00001
+loss: 0.48671   loss_alpha: 0.14087   loss_color: 0.03445   loss_cross: 0.31138
+[366 / 500] 	Lr: 0.00001
+loss: 0.50156   loss_alpha: 0.14504   loss_color: 0.03553   loss_cross: 0.32099
+[367 / 500] 	Lr: 0.00001
+loss: 0.50575   loss_alpha: 0.14739   loss_color: 0.03549   loss_cross: 0.32287
+[368 / 500] 	Lr: 0.00001
+loss: 0.49144   loss_alpha: 0.14200   loss_color: 0.03398   loss_cross: 0.31545
+[369 / 500] 	Lr: 0.00001
+loss: 0.49224   loss_alpha: 0.14304   loss_color: 0.03419   loss_cross: 0.31500
+[370 / 500] 	Lr: 0.00001
+loss: 0.50639   loss_alpha: 0.14795   loss_color: 0.03629   loss_cross: 0.32215
+[371 / 500] 	Lr: 0.00001
+loss: 0.48561   loss_alpha: 0.14065   loss_color: 0.03403   loss_cross: 0.31092
+[372 / 500] 	Lr: 0.00001
+loss: 0.49542   loss_alpha: 0.14419   loss_color: 0.03509   loss_cross: 0.31614
+[373 / 500] 	Lr: 0.00001
+loss: 0.48351   loss_alpha: 0.14123   loss_color: 0.03469   loss_cross: 0.30759
+[374 / 500] 	Lr: 0.00001
+loss: 0.50112   loss_alpha: 0.14547   loss_color: 0.03480   loss_cross: 0.32085
+[375 / 500] 	Lr: 0.00001
+loss: 0.51015   loss_alpha: 0.14770   loss_color: 0.03553   loss_cross: 0.32693
+[376 / 500] 	Lr: 0.00001
+loss: 0.49205   loss_alpha: 0.14167   loss_color: 0.03387   loss_cross: 0.31651
+[377 / 500] 	Lr: 0.00001
+loss: 0.48860   loss_alpha: 0.14272   loss_color: 0.03456   loss_cross: 0.31132
+[378 / 500] 	Lr: 0.00001
+loss: 0.50476   loss_alpha: 0.14586   loss_color: 0.03493   loss_cross: 0.32397
+[379 / 500] 	Lr: 0.00001
+loss: 0.46864   loss_alpha: 0.13465   loss_color: 0.03228   loss_cross: 0.30171
+[380 / 500] 	Lr: 0.00001
+loss: 0.50239   loss_alpha: 0.14559   loss_color: 0.03483   loss_cross: 0.32197
+[381 / 500] 	Lr: 0.00001
+loss: 0.51150   loss_alpha: 0.14776   loss_color: 0.03525   loss_cross: 0.32849
+[382 / 500] 	Lr: 0.00001
+loss: 0.49034   loss_alpha: 0.14139   loss_color: 0.03325   loss_cross: 0.31570
+[383 / 500] 	Lr: 0.00001
+loss: 0.49190   loss_alpha: 0.14190   loss_color: 0.03465   loss_cross: 0.31534
+[384 / 500] 	Lr: 0.00001
+loss: 0.50471   loss_alpha: 0.14423   loss_color: 0.03503   loss_cross: 0.32545
+[385 / 500] 	Lr: 0.00001
+loss: 0.51914   loss_alpha: 0.14963   loss_color: 0.03667   loss_cross: 0.33285
+[386 / 500] 	Lr: 0.00001
+loss: 0.49488   loss_alpha: 0.14264   loss_color: 0.03442   loss_cross: 0.31782
+[387 / 500] 	Lr: 0.00001
+loss: 0.48427   loss_alpha: 0.13992   loss_color: 0.03408   loss_cross: 0.31027
+[388 / 500] 	Lr: 0.00001
+loss: 0.50507   loss_alpha: 0.14593   loss_color: 0.03569   loss_cross: 0.32345
+[389 / 500] 	Lr: 0.00001
+loss: 0.48850   loss_alpha: 0.14260   loss_color: 0.03428   loss_cross: 0.31162
+[390 / 500] 	Lr: 0.00001
+loss: 0.48633   loss_alpha: 0.14044   loss_color: 0.03425   loss_cross: 0.31164
+[391 / 500] 	Lr: 0.00001
+loss: 0.47376   loss_alpha: 0.13644   loss_color: 0.03342   loss_cross: 0.30390
+[392 / 500] 	Lr: 0.00001
+loss: 0.49006   loss_alpha: 0.14074   loss_color: 0.03409   loss_cross: 0.31524
+[393 / 500] 	Lr: 0.00001
+loss: 0.51075   loss_alpha: 0.14700   loss_color: 0.03605   loss_cross: 0.32770
+[394 / 500] 	Lr: 0.00001
+loss: 0.49129   loss_alpha: 0.14108   loss_color: 0.03439   loss_cross: 0.31582
+[395 / 500] 	Lr: 0.00001
+loss: 0.47233   loss_alpha: 0.13497   loss_color: 0.03270   loss_cross: 0.30467
+[396 / 500] 	Lr: 0.00001
+loss: 0.48381   loss_alpha: 0.13968   loss_color: 0.03429   loss_cross: 0.30984
+[397 / 500] 	Lr: 0.00001
+loss: 0.50463   loss_alpha: 0.14552   loss_color: 0.03517   loss_cross: 0.32394
+[398 / 500] 	Lr: 0.00001
+loss: 0.50813   loss_alpha: 0.14639   loss_color: 0.03482   loss_cross: 0.32691
+[399 / 500] 	Lr: 0.00001
+loss: 0.49712   loss_alpha: 0.14374   loss_color: 0.03475   loss_cross: 0.31863
+[400 / 500] 	Lr: 0.00001
+loss: 0.49644   loss_alpha: 0.14276   loss_color: 0.03414   loss_cross: 0.31954
+[401 / 500] 	Lr: 0.00001
+loss: 0.49891   loss_alpha: 0.14481   loss_color: 0.03452   loss_cross: 0.31957
+[402 / 500] 	Lr: 0.00001
+loss: 0.49088   loss_alpha: 0.14161   loss_color: 0.03374   loss_cross: 0.31553
+[403 / 500] 	Lr: 0.00001
+loss: 0.48788   loss_alpha: 0.14017   loss_color: 0.03453   loss_cross: 0.31318
+[404 / 500] 	Lr: 0.00001
+loss: 0.48929   loss_alpha: 0.13967   loss_color: 0.03389   loss_cross: 0.31573
+[405 / 500] 	Lr: 0.00001
+loss: 0.48839   loss_alpha: 0.14018   loss_color: 0.03441   loss_cross: 0.31381
+[406 / 500] 	Lr: 0.00001
+loss: 0.47552   loss_alpha: 0.13660   loss_color: 0.03327   loss_cross: 0.30566
+[407 / 500] 	Lr: 0.00001
+loss: 0.47607   loss_alpha: 0.13666   loss_color: 0.03361   loss_cross: 0.30580
+[408 / 500] 	Lr: 0.00001
+loss: 0.48516   loss_alpha: 0.14041   loss_color: 0.03351   loss_cross: 0.31123
+[409 / 500] 	Lr: 0.00001
+loss: 0.49374   loss_alpha: 0.14109   loss_color: 0.03382   loss_cross: 0.31883
+[410 / 500] 	Lr: 0.00001
+loss: 0.48824   loss_alpha: 0.13995   loss_color: 0.03344   loss_cross: 0.31485
+[411 / 500] 	Lr: 0.00001
+loss: 0.48505   loss_alpha: 0.14016   loss_color: 0.03393   loss_cross: 0.31097
+[412 / 500] 	Lr: 0.00001
+loss: 0.49593   loss_alpha: 0.14383   loss_color: 0.03470   loss_cross: 0.31739
+[413 / 500] 	Lr: 0.00001
+loss: 0.47216   loss_alpha: 0.13528   loss_color: 0.03313   loss_cross: 0.30374
+[414 / 500] 	Lr: 0.00001
+loss: 0.48372   loss_alpha: 0.13916   loss_color: 0.03329   loss_cross: 0.31127
+[415 / 500] 	Lr: 0.00001
+loss: 0.47616   loss_alpha: 0.13674   loss_color: 0.03282   loss_cross: 0.30659
+[416 / 500] 	Lr: 0.00001
+loss: 0.49502   loss_alpha: 0.14260   loss_color: 0.03415   loss_cross: 0.31826
+[417 / 500] 	Lr: 0.00001
+loss: 0.47897   loss_alpha: 0.13728   loss_color: 0.03306   loss_cross: 0.30864
+[418 / 500] 	Lr: 0.00001
+loss: 0.48313   loss_alpha: 0.13803   loss_color: 0.03304   loss_cross: 0.31206
+[419 / 500] 	Lr: 0.00001
+loss: 0.48988   loss_alpha: 0.14042   loss_color: 0.03454   loss_cross: 0.31492
+[420 / 500] 	Lr: 0.00001
+loss: 0.48509   loss_alpha: 0.13805   loss_color: 0.03404   loss_cross: 0.31299
+[421 / 500] 	Lr: 0.00001
+loss: 0.48081   loss_alpha: 0.13951   loss_color: 0.03389   loss_cross: 0.30741
+[422 / 500] 	Lr: 0.00001
+loss: 0.48915   loss_alpha: 0.13966   loss_color: 0.03316   loss_cross: 0.31633
+[423 / 500] 	Lr: 0.00001
+loss: 0.48696   loss_alpha: 0.13945   loss_color: 0.03355   loss_cross: 0.31396
+[424 / 500] 	Lr: 0.00001
+loss: 0.47940   loss_alpha: 0.13714   loss_color: 0.03286   loss_cross: 0.30940
+[425 / 500] 	Lr: 0.00001
+loss: 0.49591   loss_alpha: 0.14121   loss_color: 0.03419   loss_cross: 0.32051
+[426 / 500] 	Lr: 0.00001
+loss: 0.48684   loss_alpha: 0.13991   loss_color: 0.03339   loss_cross: 0.31355
+[427 / 500] 	Lr: 0.00001
+loss: 0.47505   loss_alpha: 0.13679   loss_color: 0.03338   loss_cross: 0.30487
+[428 / 500] 	Lr: 0.00001
+loss: 0.48723   loss_alpha: 0.14038   loss_color: 0.03401   loss_cross: 0.31283
+[429 / 500] 	Lr: 0.00001
+loss: 0.47671   loss_alpha: 0.13766   loss_color: 0.03312   loss_cross: 0.30593
+[430 / 500] 	Lr: 0.00001
+loss: 0.47460   loss_alpha: 0.13615   loss_color: 0.03274   loss_cross: 0.30571
+[431 / 500] 	Lr: 0.00001
+loss: 0.47633   loss_alpha: 0.13547   loss_color: 0.03301   loss_cross: 0.30785
+[432 / 500] 	Lr: 0.00001
+loss: 0.48461   loss_alpha: 0.13917   loss_color: 0.03320   loss_cross: 0.31225
+[433 / 500] 	Lr: 0.00001
+loss: 0.46906   loss_alpha: 0.13294   loss_color: 0.03250   loss_cross: 0.30362
+[434 / 500] 	Lr: 0.00001
+loss: 0.47823   loss_alpha: 0.13563   loss_color: 0.03310   loss_cross: 0.30950
+[435 / 500] 	Lr: 0.00001
+loss: 0.49320   loss_alpha: 0.14256   loss_color: 0.03477   loss_cross: 0.31587
+[436 / 500] 	Lr: 0.00001
+loss: 0.48002   loss_alpha: 0.13726   loss_color: 0.03371   loss_cross: 0.30904
+[437 / 500] 	Lr: 0.00001
+loss: 0.48152   loss_alpha: 0.13696   loss_color: 0.03345   loss_cross: 0.31112
+[438 / 500] 	Lr: 0.00001
+loss: 0.46972   loss_alpha: 0.13483   loss_color: 0.03279   loss_cross: 0.30210
+[439 / 500] 	Lr: 0.00001
+loss: 0.48230   loss_alpha: 0.13808   loss_color: 0.03357   loss_cross: 0.31065
+[440 / 500] 	Lr: 0.00001
+loss: 0.45952   loss_alpha: 0.13090   loss_color: 0.03195   loss_cross: 0.29668
+[441 / 500] 	Lr: 0.00001
+loss: 0.47541   loss_alpha: 0.13510   loss_color: 0.03314   loss_cross: 0.30717
+[442 / 500] 	Lr: 0.00001
+loss: 0.49303   loss_alpha: 0.14036   loss_color: 0.03365   loss_cross: 0.31902
+[443 / 500] 	Lr: 0.00001
+loss: 0.48967   loss_alpha: 0.14050   loss_color: 0.03411   loss_cross: 0.31507
+[444 / 500] 	Lr: 0.00001
+loss: 0.46556   loss_alpha: 0.13219   loss_color: 0.03240   loss_cross: 0.30097
+[445 / 500] 	Lr: 0.00001
+loss: 0.48596   loss_alpha: 0.13856   loss_color: 0.03346   loss_cross: 0.31395
+[446 / 500] 	Lr: 0.00001
+loss: 0.46861   loss_alpha: 0.13356   loss_color: 0.03335   loss_cross: 0.30171
+[447 / 500] 	Lr: 0.00001
+loss: 0.47668   loss_alpha: 0.13597   loss_color: 0.03285   loss_cross: 0.30786
+[448 / 500] 	Lr: 0.00001
+loss: 0.48363   loss_alpha: 0.13882   loss_color: 0.03359   loss_cross: 0.31122
+[449 / 500] 	Lr: 0.00001
+loss: 0.48084   loss_alpha: 0.13722   loss_color: 0.03338   loss_cross: 0.31024
+[450 / 500] 	Lr: 0.00001
+loss: 0.47911   loss_alpha: 0.13689   loss_color: 0.03315   loss_cross: 0.30907
+[451 / 500] 	Lr: 0.00001
+loss: 0.46937   loss_alpha: 0.13363   loss_color: 0.03209   loss_cross: 0.30366
+[452 / 500] 	Lr: 0.00001
+loss: 0.48375   loss_alpha: 0.13636   loss_color: 0.03251   loss_cross: 0.31487
+[453 / 500] 	Lr: 0.00001
+loss: 0.46819   loss_alpha: 0.13348   loss_color: 0.03237   loss_cross: 0.30234
+[454 / 500] 	Lr: 0.00001
+loss: 0.47158   loss_alpha: 0.13394   loss_color: 0.03174   loss_cross: 0.30589
+[455 / 500] 	Lr: 0.00001
+loss: 0.48156   loss_alpha: 0.13584   loss_color: 0.03262   loss_cross: 0.31310
+[456 / 500] 	Lr: 0.00001
+loss: 0.47641   loss_alpha: 0.13545   loss_color: 0.03321   loss_cross: 0.30775
+[457 / 500] 	Lr: 0.00001
+loss: 0.47506   loss_alpha: 0.13475   loss_color: 0.03245   loss_cross: 0.30786
+[458 / 500] 	Lr: 0.00001
+loss: 0.46966   loss_alpha: 0.13344   loss_color: 0.03252   loss_cross: 0.30369
+[459 / 500] 	Lr: 0.00001
+loss: 0.47006   loss_alpha: 0.13242   loss_color: 0.03202   loss_cross: 0.30562
+[460 / 500] 	Lr: 0.00001
+loss: 0.46890   loss_alpha: 0.13363   loss_color: 0.03197   loss_cross: 0.30329
+[461 / 500] 	Lr: 0.00001
+loss: 0.47307   loss_alpha: 0.13492   loss_color: 0.03207   loss_cross: 0.30609
+[462 / 500] 	Lr: 0.00001
+loss: 0.46747   loss_alpha: 0.13307   loss_color: 0.03207   loss_cross: 0.30234
+[463 / 500] 	Lr: 0.00001
+loss: 0.48838   loss_alpha: 0.13899   loss_color: 0.03388   loss_cross: 0.31551
+[464 / 500] 	Lr: 0.00001
+loss: 0.48411   loss_alpha: 0.13775   loss_color: 0.03342   loss_cross: 0.31294
+[465 / 500] 	Lr: 0.00001
+loss: 0.46616   loss_alpha: 0.13134   loss_color: 0.03156   loss_cross: 0.30326
+[466 / 500] 	Lr: 0.00001
+loss: 0.47718   loss_alpha: 0.13666   loss_color: 0.03315   loss_cross: 0.30736
+[467 / 500] 	Lr: 0.00001
+loss: 0.48210   loss_alpha: 0.13771   loss_color: 0.03368   loss_cross: 0.31072
+[468 / 500] 	Lr: 0.00001
+loss: 0.46491   loss_alpha: 0.13135   loss_color: 0.03167   loss_cross: 0.30189
+[469 / 500] 	Lr: 0.00001
+loss: 0.45142   loss_alpha: 0.12777   loss_color: 0.03090   loss_cross: 0.29275
+[470 / 500] 	Lr: 0.00001
+loss: 0.46711   loss_alpha: 0.13336   loss_color: 0.03183   loss_cross: 0.30192
+[471 / 500] 	Lr: 0.00001
+loss: 0.44789   loss_alpha: 0.12565   loss_color: 0.03005   loss_cross: 0.29219
+[472 / 500] 	Lr: 0.00001
+loss: 0.46396   loss_alpha: 0.13100   loss_color: 0.03185   loss_cross: 0.30111
+[473 / 500] 	Lr: 0.00001
+loss: 0.47510   loss_alpha: 0.13441   loss_color: 0.03255   loss_cross: 0.30814
+[474 / 500] 	Lr: 0.00001
+loss: 0.46198   loss_alpha: 0.13076   loss_color: 0.03266   loss_cross: 0.29856
+[475 / 500] 	Lr: 0.00001
+loss: 0.46939   loss_alpha: 0.13180   loss_color: 0.03179   loss_cross: 0.30580
+[476 / 500] 	Lr: 0.00001
+loss: 0.45511   loss_alpha: 0.12934   loss_color: 0.03186   loss_cross: 0.29391
+[477 / 500] 	Lr: 0.00001
+loss: 0.46775   loss_alpha: 0.13404   loss_color: 0.03247   loss_cross: 0.30124
+[478 / 500] 	Lr: 0.00001
+loss: 0.46329   loss_alpha: 0.13111   loss_color: 0.03199   loss_cross: 0.30020
+[479 / 500] 	Lr: 0.00001
+loss: 0.46451   loss_alpha: 0.12982   loss_color: 0.03148   loss_cross: 0.30321
+[480 / 500] 	Lr: 0.00001
+loss: 0.46755   loss_alpha: 0.13289   loss_color: 0.03169   loss_cross: 0.30297
+[481 / 500] 	Lr: 0.00001
+loss: 0.46985   loss_alpha: 0.13342   loss_color: 0.03262   loss_cross: 0.30382
+[482 / 500] 	Lr: 0.00001
+loss: 0.46933   loss_alpha: 0.13281   loss_color: 0.03209   loss_cross: 0.30443
+[483 / 500] 	Lr: 0.00001
+loss: 0.46764   loss_alpha: 0.13210   loss_color: 0.03169   loss_cross: 0.30385
+[484 / 500] 	Lr: 0.00001
+loss: 0.45846   loss_alpha: 0.13038   loss_color: 0.03090   loss_cross: 0.29718
+[485 / 500] 	Lr: 0.00001
+loss: 0.44308   loss_alpha: 0.12475   loss_color: 0.03024   loss_cross: 0.28809
+[486 / 500] 	Lr: 0.00001
+loss: 0.46875   loss_alpha: 0.13183   loss_color: 0.03170   loss_cross: 0.30523
+[487 / 500] 	Lr: 0.00001
+loss: 0.46757   loss_alpha: 0.13208   loss_color: 0.03288   loss_cross: 0.30262
+[488 / 500] 	Lr: 0.00001
+loss: 0.48203   loss_alpha: 0.13685   loss_color: 0.03317   loss_cross: 0.31201
+[489 / 500] 	Lr: 0.00001
+loss: 0.46339   loss_alpha: 0.13143   loss_color: 0.03216   loss_cross: 0.29980
+[490 / 500] 	Lr: 0.00001
+loss: 0.46509   loss_alpha: 0.13294   loss_color: 0.03235   loss_cross: 0.29980
+[491 / 500] 	Lr: 0.00001
+loss: 0.45155   loss_alpha: 0.12843   loss_color: 0.03072   loss_cross: 0.29239
+[492 / 500] 	Lr: 0.00001
+loss: 0.45783   loss_alpha: 0.12956   loss_color: 0.03130   loss_cross: 0.29698
+[493 / 500] 	Lr: 0.00001
+loss: 0.46821   loss_alpha: 0.13191   loss_color: 0.03176   loss_cross: 0.30453
+[494 / 500] 	Lr: 0.00001
+loss: 0.46898   loss_alpha: 0.13410   loss_color: 0.03260   loss_cross: 0.30227
+[495 / 500] 	Lr: 0.00001
+loss: 0.44925   loss_alpha: 0.12652   loss_color: 0.03052   loss_cross: 0.29221
+[496 / 500] 	Lr: 0.00001
+loss: 0.47821   loss_alpha: 0.13432   loss_color: 0.03242   loss_cross: 0.31147
+[497 / 500] 	Lr: 0.00001
+loss: 0.45052   loss_alpha: 0.12722   loss_color: 0.03072   loss_cross: 0.29258
+[498 / 500] 	Lr: 0.00001
+loss: 0.45348   loss_alpha: 0.12890   loss_color: 0.03082   loss_cross: 0.29375
+[499 / 500] 	Lr: 0.00001
+loss: 0.45947   loss_alpha: 0.12964   loss_color: 0.03182   loss_cross: 0.29800
+[500 / 500] 	Lr: 0.00001
+loss: 0.46936   loss_alpha: 0.13322   loss_color: 0.03171   loss_cross: 0.30443
